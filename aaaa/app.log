@@ -1,0 +1,18 @@
+2025-11-07 14:24:35,162 [INFO] 连接 MySQL: env=aaaa cfg={'host': '203.83.233.132', 'port': 10001, 'user': 'viewuser', 'database': 'aaaa_data', 'charset': 'utf8mb4', 'cursorclass': <class 'pymysql.cursors.DictCursor'>, 'autocommit': True, 'connect_timeout': 10}
+2025-11-07 14:24:35,319 [INFO] Executing SQL: SELECT * FROM family_user WHERE id > %s ORDER BY id ASC LIMIT %s with last_id=0, batch_size=100
+2025-11-07 14:24:44,803 [INFO] Processed batch up to id=001ea787e2d67d896f649c5504f4612e, fetched 100 rows.
+2025-11-07 14:24:49,065 [INFO] 连接 MySQL: env=aaaa cfg={'host': '203.83.233.132', 'port': 10001, 'user': 'viewuser', 'database': 'aaaa_data', 'charset': 'utf8mb4', 'cursorclass': <class 'pymysql.cursors.DictCursor'>, 'autocommit': True, 'connect_timeout': 10}
+2025-11-07 14:24:49,235 [INFO] Executing SQL: SELECT * FROM family_user WHERE id > %s ORDER BY id ASC LIMIT %s with last_id=001ea787e2d67d896f649c5504f4612e, batch_size=100
+2025-11-07 14:24:57,458 [INFO] Processed batch up to id=0034e35b79a7b5d074aa2564dfdac1a5, fetched 100 rows.
+2025-11-07 14:25:04,895 [INFO] 连接 MySQL: env=aaaa cfg={'host': '203.83.233.132', 'port': 10001, 'user': 'viewuser', 'database': 'aaaa_data', 'charset': 'utf8mb4', 'cursorclass': <class 'pymysql.cursors.DictCursor'>, 'autocommit': True, 'connect_timeout': 10}
+2025-11-07 14:25:05,100 [INFO] Executing SQL: SELECT * FROM family_user WHERE id > %s ORDER BY id ASC LIMIT %s with last_id=0034e35b79a7b5d074aa2564dfdac1a5, batch_size=100
+2025-11-07 14:25:05,959 [INFO] Processed batch up to id=004b8082748c8cf7dd04f0240826dc74, fetched 100 rows.
+2025-11-07 14:25:07,160 [INFO] 连接 MySQL: env=aaaa cfg={'host': '203.83.233.132', 'port': 10001, 'user': 'viewuser', 'database': 'aaaa_data', 'charset': 'utf8mb4', 'cursorclass': <class 'pymysql.cursors.DictCursor'>, 'autocommit': True, 'connect_timeout': 10}
+2025-11-07 14:25:07,336 [INFO] Executing SQL: SELECT * FROM family_user WHERE id > %s ORDER BY id ASC LIMIT %s with last_id=004b8082748c8cf7dd04f0240826dc74, batch_size=100
+2025-11-07 14:25:08,128 [INFO] Processed batch up to id=006294077b967cce730c235934027837, fetched 100 rows.
+2025-11-07 14:25:08,946 [INFO] 连接 MySQL: env=aaaa cfg={'host': '203.83.233.132', 'port': 10001, 'user': 'viewuser', 'database': 'aaaa_data', 'charset': 'utf8mb4', 'cursorclass': <class 'pymysql.cursors.DictCursor'>, 'autocommit': True, 'connect_timeout': 10}
+2025-11-07 14:25:09,150 [INFO] Executing SQL: SELECT * FROM family_user WHERE id > %s ORDER BY id ASC LIMIT %s with last_id=006294077b967cce730c235934027837, batch_size=100
+2025-11-07 14:25:09,738 [INFO] Processed batch up to id=007abac692beefaee5b72d3c44c8556b, fetched 100 rows.
+2025-11-07 14:25:10,558 [INFO] 连接 MySQL: env=aaaa cfg={'host': '203.83.233.132', 'port': 10001, 'user': 'viewuser', 'database': 'aaaa_data', 'charset': 'utf8mb4', 'cursorclass': <class 'pymysql.cursors.DictCursor'>, 'autocommit': True, 'connect_timeout': 10}
+2025-11-07 14:25:10,747 [INFO] Executing SQL: SELECT * FROM family_user WHERE id > %s ORDER BY id ASC LIMIT %s with last_id=007abac692beefaee5b72d3c44c8556b, batch_size=100
+2025-11-07 14:25:11,436 [INFO] Processed batch up to id=00938edf06ed1e56aa5560a70ea4c918, fetched 100 rows.
